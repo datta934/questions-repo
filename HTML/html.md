@@ -1,7 +1,7 @@
 ## HTML
    - [Beginner](#html-beginner)
-   - Advanced
-   - Pro
+   - [Advanced](#html-advanced)
+   - [Pro](#html-pro)
 
 ### <a name="html-beginner">Beginner</a>
 
