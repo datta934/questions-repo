@@ -1,7 +1,8 @@
 ## React
-   - [Beginner](#react-beginner)
-   - [Advanced](#react-advanced)
-   - [Pro](#react-pro)
+
+- [Beginner](#react-beginner)
+- [Advanced](#react-advanced)
+- [Pro](#react-pro)
 
 ### <a name="react-beginner">Beginner</a>
 
@@ -9,6 +10,5 @@
 2. How do I choose between class and functional component?
 
 ### <a name="react-advanced">Advanced</a>
-
 
 ### <a name="react-pro">Pro</a>
