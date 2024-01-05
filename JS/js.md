@@ -21,6 +21,6 @@
 1. How does JS engine works?
 2. What is event loop?
 3. Explain diff. between call, apply and bind
-4. Purpose fo localstorage
+4. Purpose of localstorage
 
 ### <a name="js-pro">Pro</a>

@@ -10,5 +10,6 @@
 2. How do I choose between class and functional component?
 
 ### <a name="react-advanced">Advanced</a>
+1. Will my react work without render?
 
 ### <a name="react-pro">Pro</a>

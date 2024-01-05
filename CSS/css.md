@@ -6,8 +6,8 @@
 
 ### <a name="css-beginner">Beginner</a>
 
-1. Explain box-model.
-2.
+1. Explain specifity
+2. 
 
 ### <a name="css-advanced">Advanced</a>
 
