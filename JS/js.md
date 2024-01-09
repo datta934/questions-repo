@@ -14,7 +14,7 @@
 6. Arrow vs normal function
 7. Explain concept of event handling and attach an event listener to this button `<button>Click here!</button>`
 8. Explain event bubbling and capturing.
-9.
+9. In how many ways can you empty an array?
 
 ### <a name="js-advanced">Advanced</a>
 
@@ -22,5 +22,6 @@
 2. What is event loop?
 3. Explain diff. between call, apply and bind
 4. Purpose of localstorage
+5. Write a program to reverse each word but maintain same sequence "One, Two, Three, Four" --> "enO, owT, eerhT, ruoF"
 
 ### <a name="js-pro">Pro</a>
